@@ -1,7 +1,7 @@
 var express = require('express');
 var router = express.Router();
 
-var Item = require('../../models/Item');
+var Item = require('../../models/item');
 
 // @route   GET api/items
 // @desc    Get all Items
